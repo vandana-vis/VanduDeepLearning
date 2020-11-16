@@ -1,0 +1,5 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is B4AF-4C73
+
+ Directory of C:\
+
